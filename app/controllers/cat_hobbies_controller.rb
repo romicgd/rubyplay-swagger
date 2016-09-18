@@ -1,0 +1,2 @@
+class CatHobbiesController < ApplicationController
+end

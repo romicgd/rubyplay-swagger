@@ -1,0 +1,8 @@
+{"data" : 
+{"attributes" : { 
+"name":"name1",
+"breed":"breed1",
+"weight":"weight1",
+"temperament":"temperament1"  }
+}
+}
